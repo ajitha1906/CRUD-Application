@@ -1,0 +1,11 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+td{
+  font-size: 15px;
+}
+tr{
+  background-color: aquamarine;
+}
